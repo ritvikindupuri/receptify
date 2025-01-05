@@ -1,4 +1,5 @@
 #Receptify - Receipt Management System
+
 Receptify is an AI-powered application designed to streamline the process of extracting and organizing receipt data. Created with the assistance of AI, this app leverages machine learning to accurately identify and record key receipt details, including store names, dates, and prices. With a user-friendly interface and robust features, Receptify makes receipt management simple and efficient.
 
 Features
